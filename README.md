@@ -1,2 +1,1 @@
-# mtc-repo-backend
-python Code for MTC
+# This is a dev python repository is for backend developers
